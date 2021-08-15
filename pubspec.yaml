@@ -1,8 +1,8 @@
-name: flutter_table_view
+name: flutter_desktop_table_view
 description: A desktop table widget for flutter inspired by QT's QTableView.
 version: 0.0.1
 author: Michael Redmond <michael.j.redmond@gmail.com>
-homepage: https://github.com/mjredmond/flutter_table_view
+homepage: https://github.com/mjredmond/flutter_desktop_table_view
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

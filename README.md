@@ -1,4 +1,4 @@
-# flutter_table_view
+# flutter_desktop_table_view
 
 A desktop table widget for flutter inspired by QT's QTableView.
 
@@ -25,14 +25,14 @@ Source code really needs some work.  But at least it's working.
 Add the following to your `pubspec.yaml` file:
 
     dependencies:
-      flutter_table_view: ^0.0.1
+      flutter_desktop_table_view: ^0.0.1
 
 ## How to use
 
 ```dart
 import 'package:flutter/material.dart';
 
-import 'package:flutter_table_view/flutter_table_view.dart' show TableView, Index;
+import 'package:flutter_desktop_table_view/flutter_desktop_table_view.dart' show TableView, Index;
 
 void main() => runApp(MyApp());
 
